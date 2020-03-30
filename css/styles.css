@@ -88,7 +88,7 @@ margin: 10px 0 30px;
 .corporate-image
 {
   max-width: 250px;
-  padding: 5% 0 10%;
+  padding: 20px 0 10px;
   width: 80%;
 }
 .experience-text{
@@ -107,7 +107,7 @@ margin: 10px 0 30px;
   border-width: 2px;
   width: 70%;
   color: #4a4848;
-  margin: 20px auto;
+  margin: 2rem auto;
 }
 .profile{
   margin: auto;
@@ -152,5 +152,5 @@ margin: 10px 0 30px;
   padding: 20px 0 20px;
 }
 #exper{
-    padding: 0 5%; 
+    padding: 0 5%;
 }
