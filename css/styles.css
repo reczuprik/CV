@@ -18,15 +18,16 @@ h1 {
 h2 {
   color: #6e6b6b;
   font-family: 'Baloo Thambi 2', cursive;
-  font-size: 2.5rem;
+  font-size: 3rem;
   font-weight: normal;
-  padding-bottom: 10px;
+  padding-bottom: 3.5rem;
 }
 
 h3 {
+  font-size: 2rem;
   margin: 10px auto;
   color: #3378cc;
-    font-family: 'Baloo Thambi 2', cursive;
+  font-family: 'Baloo Thambi 2', cursive;
 }
 h4 {
 
@@ -84,31 +85,23 @@ margin: 10px 0 30px;
   bottom: 300px;
 }
 
-.bosch-image
+.corporate-image
 {
-  flex: 30%;
-  max-width: 80%;
-  padding: 10px  4px;
-  margin: 10px auto;
+  max-width: 250px;
+  padding: 5% 0 10%;
+  width: 80%;
 }
-.bosch_experience{
-
-}
-.lear-image{
-  flex: 30%;
-  max-width: 80%;
-  padding: 10px  4px;
-  margin: 10px auto;
-}
-.skill-row{
-
-  margin: 20px auto;
+.experience-text{
   text-align: left;
-  width: 70%;
 }
+.image-col{
+  padding: 0;
+}
+
 .web {
   text-decoration: underline;
 }
+
 .between-exp{
   border-style: inset;
   border-width: 2px;
@@ -157,4 +150,7 @@ margin: 10px 0 30px;
   color: #EAF6f6;
   font: 0.75rem;
   padding: 20px 0 20px;
+}
+#exper{
+    padding: 0 15%;
 }
